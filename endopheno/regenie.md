@@ -1,0 +1,3 @@
+-0   make the bed files
+-0   run step1
+-0   run step2
