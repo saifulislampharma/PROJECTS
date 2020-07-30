@@ -22,3 +22,5 @@
        --bsize 400 \
        --split \
        --out ukb_step2_chr1
+       
+`--split` will output result for each phenotype seperately.
